@@ -1,2 +1,5 @@
 # Machine-Learning-Journey
-A hands-on journey through machine learning concepts, algorithms, and projects using Python.
+   ## Progress
+   - Linear Regression (simple, multiple, OLS)
+   - Gradient Descent from scratch + learning rate experiments
+   - Next: Regression Analysis, House Price Prediction
